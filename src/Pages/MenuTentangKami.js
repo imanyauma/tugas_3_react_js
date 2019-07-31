@@ -8,7 +8,8 @@ class MenuTentangKami extends Component {
   render(){
     return (
       <div>
-        <p>Ini halaman menu tentang kami</p>
+        <p>Warung nusantara adalah Restoran yang bernuansa Makanan Nusantara,
+        Kami untuk membuat Anda Menikmati Makanan Khas Dari Nusantara</p>
       </div>
     );
   }

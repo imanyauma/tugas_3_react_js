@@ -12,8 +12,8 @@ function App() {
       <Header />
       <MenuUtama />
       <Makanan />
-      <MenuKontak />
       <MenuTentangKami />
+      <MenuKontak />
       <Footer />
     </div>
   );
